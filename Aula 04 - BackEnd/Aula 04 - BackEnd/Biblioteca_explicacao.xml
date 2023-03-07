@@ -1,0 +1,52 @@
+<!--
+XML (Extensible Markup Language) é uma linguagem de marcação que permite que os desenvolvedores 
+criem documentos com uma estrutura hierárquica. É frequentemente usado para armazenar e transmitir 
+dados em aplicativos da web, bem como em outros tipos de sistemas de software.
+
+Um exemplo simples de XML pode ser um arquivo que contém informações sobre livros em uma biblioteca.
+O arquivo XML pode ser estruturado da seguinte maneira:
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <livro>
+    <titulo>O Senhor dos Anéis</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <ano>1954</ano>
+  </livro>
+  <livro>
+    <titulo>Harry Potter e a Pedra Filosofal</titulo>
+    <autor>J.K. Rowling</autor>
+    <ano>1997</ano>
+  </livro>
+  <livro>
+    <titulo>Código Da Vinci</titulo>
+    <autor>Dan Brown</autor>
+    <ano>2003</ano>
+  </livro>
+  <livro>
+    <titulo>A Culpa é das Estrelas</titulo>
+    <autor>John Green</autor>
+    <ano>2012</ano>
+  </livro>
+  <livro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <ano>1949</ano>
+  </livro>
+</biblioteca>
+
+
+<!--
+Nesse exemplo, o arquivo começa com uma declaração XML que indica a versão do XML e o tipo de codificação usada.
+Em seguida, o arquivo contém um elemento <biblioteca> que contém dois elementos <livro>.
+Cada elemento <livro> contém três sub-elementos: <titulo>, <autor> e <ano>.
+
+Os elementos e sub-elementos no arquivo XML são definidos por meio de tags que indicam seus nomes e atributos.
+Essas tags são cercadas por símbolos de menor e maior (< >), que indicam o início e o fim de um elemento.
+O conteúdo do elemento é inserido entre essas tags.
+
+Os arquivos XML podem ser lidos e processados por softwares que entendem sua estrutura hierárquica.
+Por exemplo, um aplicativo de biblioteca pode ler um arquivo XML como esse e usar as informações para
+construir uma lista de livros disponíveis na biblioteca.
+-->

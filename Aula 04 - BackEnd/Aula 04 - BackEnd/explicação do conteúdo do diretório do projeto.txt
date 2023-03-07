@@ -1,0 +1,42 @@
+A estrutura de diretórios de um projeto em C# pode variar dependendo do
+tipo de projeto e das ferramentas que você está usando para desenvolvê-lo.
+No entanto, aqui está uma estrutura de diretórios comum para
+projetos em C# usando o .NET Core SDK:
+
+MeuProjeto/
+├── MeuProjeto.csproj
+├── bin/
+│   └── Debug/
+│       └── netcoreapp3.1/
+│           └── MeuProjeto.dll
+├── obj/
+│   └── Debug/
+│       └── netcoreapp3.1/
+│           └── MeuProjeto.dll
+│           └── MeuProjeto.assets.cache
+│           └── MeuProjeto.csproj.nuget.cache
+│           └── MeuProjeto.csproj.nuget.g.props
+│           └── MeuProjeto.csproj.nuget.g.targets
+└── Program.cs
+
+Aqui está o que cada um desses diretórios e arquivos representa:
+
+MeuProjeto/: Esta é a pasta raiz do seu projeto.
+
+MeuProjeto.csproj: Este é o arquivo de projeto do seu projeto C#. 
+Ele contém as informações sobre as dependências do projeto, referências e configurações do projeto.
+
+bin/: Esta é a pasta de saída do seu projeto, que contém o arquivo DLL gerado após a compilação.
+
+obj/: Esta é a pasta de objetos do seu projeto, que contém arquivos temporários gerados durante a compilação.
+
+Program.cs: Este é o arquivo que contém o código principal do seu aplicativo. 
+Ele é responsável por definir a classe principal e o método Main que é executado quando o aplicativo é iniciado.
+
+Além desses diretórios e arquivos, o projeto também pode conter outros arquivos e pastas, como arquivos de configuração,
+pastas de recursos, pastas de testes, pastas de bibliotecas de terceiros e assim por diante. No entanto,
+a estrutura básica acima é comum para projetos C# usando o .NET Core SDK.
+
+
+
+

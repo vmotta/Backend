@@ -1,0 +1,14 @@
+O comando "dotnet new console" é um comando que cria um novo projeto de console usando o .NET Core SDK.
+O console é um tipo de aplicativo de linha de comando que permite que os usuários interajam com o programa 
+por meio de entrada e saída de texto.
+
+Quando você executa o comando "dotnet new console", ele cria uma estrutura de diretórios e arquivos 
+necessários para o seu projeto, que inclui o arquivo "Program.cs", que contém o código C# para o seu programa de console.
+
+O comando "dotnet new console" é útil para criar rapidamente um novo projeto de console em C# usando o .NET Core SDK 
+e começar a escrever código imediatamente. Ele automatiza a criação da estrutura do projeto para você, economizando tempo 
+e esforço na configuração inicial do seu projeto.
+
+Depois de criar o projeto usando o comando "dotnet new console", você pode abrir o projeto no
+seu editor de código preferido, como o Visual Studio Code, e começar a escrever o código C# para seu aplicativo
+de console.

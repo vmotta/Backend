@@ -1,0 +1,11 @@
+Para limpar e recompilar um projeto C# usando o Visual Studio Code, você precisará ter o 
+SDK do .NET instalado em sua máquina. Em seguida, siga estes passos:
+
+Abra o Visual Studio Code e abra o projeto que você deseja limpar e recompilar.
+Abra o terminal dentro do Visual Studio Code (pressione Ctrl + ` ou vá em Terminal > New Terminal).
+Para limpar a solução, execute o seguinte comando no terminal: dotnet clean. Isso removerá todos 
+os arquivos de compilação antigos.
+Para recompilar o projeto, execute o seguinte comando no terminal: dotnet build. Isso irá recompilar 
+o projeto e gerar um novo conjunto de arquivos de compilação.
+Se houver erros de compilação, você pode usar o terminal para depurar o problema e corrigi-lo antes 
+de tentar recompilar novamente.

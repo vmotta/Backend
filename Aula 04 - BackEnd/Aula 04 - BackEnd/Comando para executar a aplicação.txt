@@ -1,0 +1,2 @@
+Salve o arquivo "Program.cs" e execute o seguinte comando no terminal para executar o programa:
+dotnet run

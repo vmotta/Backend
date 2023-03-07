@@ -1,0 +1,17 @@
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Aula 04 - BackEnd.exe
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Aula 04 - BackEnd.deps.json
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Aula 04 - BackEnd.runtimeconfig.json
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Aula 04 - BackEnd.dll
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Aula 04 - BackEnd.pdb
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.dll
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\refint\Aula 04 - BackEnd.dll
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.pdb
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\Aula 04 - BackEnd.genruntimeconfig.cache
+C:\Users\Vinícius\Desktop\Aula 04 - BackEnd\obj\Debug\net7.0\ref\Aula 04 - BackEnd.dll

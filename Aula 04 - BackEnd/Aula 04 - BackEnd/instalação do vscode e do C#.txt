@@ -1,0 +1,15 @@
+Para instalar o C# com o Visual Studio Code no Windows, siga estas etapas:
+
+Baixe e instale o .NET Core SDK no site da Microsoft: https://dotnet.microsoft.com/download.
+
+Baixe e instale o Visual Studio Code no site da Microsoft: https://code.visualstudio.com/download.
+
+Abra o Visual Studio Code e instale a extensão do C# para o VS Code.
+
+Abra o terminal do VS Code e execute o comando "dotnet new console" para criar um novo projeto de console em C#.
+
+Abra a pasta do projeto no VS Code e edite o arquivo "Program.cs" para escrever o código C#.
+
+Para compilar e executar o programa, execute o comando "dotnet run" no terminal.
+
+Com essas etapas, você terá o ambiente C# configurado no Visual Studio Code no Windows.
